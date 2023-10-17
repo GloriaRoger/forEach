@@ -34,3 +34,4 @@ forEach(colors, function(color, i) {
 colors.forEach(function(color, i) {
 	console.log(color.toUpperCase(), 'at index of:', i);
 });
+
